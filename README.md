@@ -42,8 +42,10 @@ npm install
 Create a `.env` file with the following variables:
 
 ```env
-DISCORD_TOKEN=your_discord_bot_token_here
-GOOGLE_SERVICE_ACCOUNT_PATH=path_to_your_service_account.json
+DISCORD_TOKEN=
+GOOGLE_SERVICE_ACCOUNT_PATH=
+DISCORD_CLIENT_ID=
+GUILD_ID=
 ```
 
 ## Running the Bot
