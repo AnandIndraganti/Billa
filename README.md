@@ -51,7 +51,8 @@ GUILD_ID=
 ## Running the Bot
 
 ```bash
-npm start
+npx tsc
+node dist/index.js
 ```
 
 ## Security Notes
